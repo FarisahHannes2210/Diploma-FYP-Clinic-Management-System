@@ -15,7 +15,7 @@ It enhances the accuracy and speed of the recording process while reducing paper
 ## Technology Used
 - **Programming Language**: PHP
 - **Database**: File handling (or can be integrated with MySQL if needed)
-- **Platform**: Desktop application
+- **Platform**: Web application
 
 ## Purpose
 This system eliminates **inefficient paperwork** and **streamlines administrative tasks** in a clinic. By automating processes like **appointments, patient records, and billing**, clinic staff can focus more on patient care rather than manual data entry.
