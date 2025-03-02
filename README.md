@@ -13,7 +13,7 @@ It enhances the accuracy and speed of the recording process while reducing paper
 - **User-Friendly Interface**: Designed for easy navigation by clinic staff.
 
 ## Technology Used
-- **Programming Language**: C++
+- **Programming Language**: PHP
 - **Database**: File handling (or can be integrated with MySQL if needed)
 - **Platform**: Desktop application
 
